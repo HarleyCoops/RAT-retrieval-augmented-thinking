@@ -10,7 +10,7 @@ dependencies = [
     "openai>=1.59.9",
     "prompt-toolkit>=3.0.50",
     "pyperclip>=1.9.0",
-    "python-dotenv>=1.0.1",
+    "python-dotenv>=1.2.2",
     "rich>=13.9.4",
 ]
 
